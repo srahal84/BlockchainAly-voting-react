@@ -1,1 +1,0 @@
-# BlockchainAly-voting-react
